@@ -24,7 +24,7 @@ Feel free to dive in! [Open an issue](https://github.com/LejhandGamingYT/github-
 
 ## Maintainers
 
-[@CannonStealth](https://github.com/LejhandGamingYT)
+[@LejhandGamingYT](https://github.com/LejhandGamingYT)
 
 ### Contributors
 
