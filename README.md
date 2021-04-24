@@ -13,7 +13,7 @@ This is a documentation which guides you about the features of GitHub and how ev
   - [Account](https://github.com/LejhandGamingYT/github-docs/blob/main/2.%20Profile/account.md) <br>
   - [Appearance](https://github.com/LejhandGamingYT/github-docs/blob/main/2.%20Profile/appearance.md) <br>
 
-The goals of the repository are :
+## Goals
 1. Help people to learn using Github
 2. To solve frequently asked questions
 3. To encourage more people to join Github
