@@ -12,3 +12,21 @@ This is a documentation which guides you about the features of GitHub and how ev
   - [Profile](https://github.com/LejhandGamingYT/github-docs/blob/main/2.%20Profile/profile.md) <br>
   - [Account](https://github.com/LejhandGamingYT/github-docs/blob/main/2.%20Profile/account.md) <br>
   - [Appearance](https://github.com/LejhandGamingYT/github-docs/blob/main/2.%20Profile/appearance.md) <br>
+
+The goals of the repository are :
+1. Help people to learn using Github
+2. To solve frequently asked questions
+3. To encourage more people to join Github
+
+## Contributing
+
+Feel free to dive in! [Open an issue](https://github.com/LejhandGamingYT/github-docs/issues/new) or submit PRs.
+
+## Maintainers
+
+[@CannonStealth](https://github.com/LejhandGamingYT)
+
+### Contributors
+
+This project exists thanks to all the people who contribute. 
+[Contributors](https://api.github.com/repos/LejhandGamingYT/github-docs/contributors)
