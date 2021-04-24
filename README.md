@@ -12,6 +12,8 @@ This is a documentation which guides you about the features of GitHub and how ev
   - [Profile](https://github.com/LejhandGamingYT/github-docs/blob/main/2.%20Profile/profile.md) <br>
   - [Account](https://github.com/LejhandGamingYT/github-docs/blob/main/2.%20Profile/account.md) <br>
   - [Appearance](https://github.com/LejhandGamingYT/github-docs/blob/main/2.%20Profile/appearance.md) <br>
+  - [Security](https://github.com/LejhandGamingYT/github-docs/blob/main/2.%20Profile/security.md)
+  - [Logs](https://github.com/LejhandGamingYT/github-docs/blob/main/2.%20Profile/logs.md)
 
 ## Goals
 1. Help people to learn using Github
